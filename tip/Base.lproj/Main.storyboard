@@ -137,13 +137,13 @@
                     </view>
                     <connections>
                         <outlet property="billAmountTextField" destination="Ckz-kz-hTm" id="e3u-qC-uX4"/>
-                        <outlet property="myview" destination="lN2-qC-vOt" id="aOK-Y3-Na1"/>
                         <outlet property="numberofPeopleLabel" destination="aUg-XH-xdT" id="7We-84-bAd"/>
                         <outlet property="splitSlider" destination="YRU-AH-szJ" id="wO8-5k-955"/>
                         <outlet property="tipControl" destination="5xn-9z-SCh" id="p50-hK-g08"/>
                         <outlet property="tipPercentageLabel" destination="JDo-2b-icZ" id="E6U-EI-jmN"/>
                         <outlet property="totalLabel" destination="CNK-iV-1Nb" id="TjR-zV-ruZ"/>
                         <outlet property="totalPerPersonLabel" destination="G2D-Kf-efb" id="2XM-gM-PJu"/>
+                        <outlet property="totalView" destination="lN2-qC-vOt" id="1eV-iM-5ut"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

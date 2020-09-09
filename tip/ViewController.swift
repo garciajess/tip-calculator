@@ -17,11 +17,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var splitSlider: UISlider!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var totalPerPersonLabel: UILabel!
-    @IBOutlet weak var myview: UIView!
+    @IBOutlet weak var totalView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-            myview.layer.cornerRadius = 10
+        totalView.layer.cornerRadius = 10
         billAmountTextField.becomeFirstResponder()
     }
     
