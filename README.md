@@ -32,11 +32,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/f4DFVTxSSSfcSFFMck/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://media.giphy.com/media/f4DFVTxSSSfcSFFMck/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/f4DFVTxSSSfcSFFMck/giphy.gif' title='Video Walkthrough (Light Mode)' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/iKBOYl4EFpIi7CXhIc/giphy.gif' title='Video Walkthrough (Dark Mode)' width='' alt='Video Walkthrough' />
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [GIPHY CAPTURE](https://giphy.com/apps/giphycapture).
 
 ## Notes
 
