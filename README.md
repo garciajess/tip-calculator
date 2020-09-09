@@ -1,6 +1,6 @@
 # Pre-work - *TipCalc*
 
-**Tipper** is a tip calculator application for iOS.
+**TipCalc** is a tip calculator application for iOS.
 
 Submitted by: **Jessica Garcia**
 
@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [x] Added custom launchscreen
 - [x] Implemented spliting bill feature up to 10 people
-- [x] Utilized images in launchscreen and split slider
+- [x] Utilized images in launchscreen and min/max images for split slider
 - [x] Dark mode compatibility
 
 
