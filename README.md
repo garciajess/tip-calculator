@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:\
 **TipCalc Light Mode**\
 <img src='https://media.giphy.com/media/f4DFVTxSSSfcSFFMck/giphy.gif' title='Video Walkthrough (Light Mode)' width='' alt='Video Walkthrough' />\
 **TipCalc Dark Mode**\
