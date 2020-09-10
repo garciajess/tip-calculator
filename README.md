@@ -42,6 +42,11 @@ GIF created with [GIPHY CAPTURE](https://giphy.com/apps/giphycapture).
 ## Notes
 
 Describe any challenges encountered while building the app.
+After completing the pre-work, I have a much better understanding of how our everyday apps are created and the hard work and cretivity that goes behind them. I was so excited to get building but was faced with the challenge that I did not know how to use Xcode, since I had never used it prior to this assignment. The video walkthrough provided by CodePath was a great resource and helped me set the project up properly. To familiarize myself with Xcode, I read documentation and also watched YouTube video tutorials. This allowed me to become aware of how to utilize the toolset efficently and create a UI with functionality. 
+
+I learned that creating outlets and connecting them storyboard objects is important in order for the objects to be manipulated at runtime. There were a few instances that I renamed a label after after I had created the outlets for UI elements. This gave me errors and I got stuck trying to figure out why the app was not working. After Googling the error I was getting, I realized I had to reconnect the label with the new name in order for it to work properly. Another challenge that I faced was understanding the error messages I was getting in the compiler. 
+
+
 
 ## License
 
